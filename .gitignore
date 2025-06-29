@@ -1,0 +1,13 @@
+# Ignore Python virtual environment
+backend/venv/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore Node.js stuff
+frontend/node_modules/
+frontend/.next/
+
+# Ignore system files
+.DS_Store
